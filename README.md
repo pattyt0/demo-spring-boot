@@ -14,3 +14,9 @@ Enter to project directory `cd demo-spring-boot` and then execute the following 
 npm install
 npm start
 ```
+
+# Student list
+
+The following UI is developed with React library.
+
+![Student Manager UI](/studentManager.png)
